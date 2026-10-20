@@ -1,0 +1,6 @@
+Order ID,Region,Customer Segment,Product Category,Units Sold,Unit Price ($),Total Revenue ($),Status
+ORD-9021,North America,Enterprise,OmniOCR Enterprise License,25,1200.00,30000.00,Completed
+ORD-9022,Europe West,Healthcare,Document Intelligence Suite,10,2500.00,25000.00,Shipped
+ORD-9023,Asia Pacific,Fintech,Docling Layout OCR Bridge,40,850.00,34000.00,Processing
+ORD-9024,Latin America,Government,High-Volume OCR Appliance,5,4500.00,22500.00,Completed
+ORD-9025,Middle East,Banking,TrOCR Handwriting Core,15,1800.00,27000.00,Delivered
